@@ -1,0 +1,9 @@
+.git
+.idea
+.vscode
+node_modules
+.eslintignore
+.gitignore
+dist
+package-lock.json
+*.log
